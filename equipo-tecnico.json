@@ -1,0 +1,218 @@
+[
+  {
+    "id": "ORD-001",
+    "cliente": "Juan Pérez",
+    "equipo": "iPhone 12",
+    "problema": "Pantalla rota",
+    "estado": "En Diagnóstico",
+    "costo": "$85.000"
+  },
+  {
+    "id": "ORD-002",
+    "cliente": "Maria López",
+    "equipo": "Samsung S20",
+    "problema": "Problema de batería",
+    "estado": "En Reparación",
+    "costo": "$50.000"
+  },
+  {
+    "id": "ORD-003",
+    "cliente": "Carlos Ruiz",
+    "equipo": "Xiaomi Redmi",
+    "problema": "No enciende",
+    "estado": "Listo para Retiro",
+    "costo": "$60.000"
+  },
+  {
+    "id": "ORD-004",
+    "cliente": "Ana Morales",
+    "equipo": "iPhone 13 Pro",
+    "problema": "Cámara trasera no funciona",
+    "estado": "En Diagnóstico",
+    "costo": "$120.000"
+  },
+  {
+    "id": "ORD-005",
+    "cliente": "Pedro Silva",
+    "equipo": "Huawei P30",
+    "problema": "Problema de carga",
+    "estado": "En Reparación",
+    "costo": "$45.000"
+  },
+  {
+    "id": "ORD-006",
+    "cliente": "Laura Jiménez",
+    "equipo": "OnePlus 8",
+    "problema": "Pantalla con líneas",
+    "estado": "Esperando Repuestos",
+    "costo": "$75.000"
+  },
+  {
+    "id": "ORD-007",
+    "cliente": "Miguel Torres",
+    "equipo": "Samsung A52",
+    "problema": "Altavoz no funciona",
+    "estado": "Listo para Retiro",
+    "costo": "$35.000"
+  },
+  {
+    "id": "ORD-008",
+    "cliente": "Carmen Vega",
+    "equipo": "iPhone 11",
+    "problema": "Botón home dañado",
+    "estado": "En Reparación",
+    "costo": "$90.000"
+  },
+  {
+    "id": "ORD-009",
+    "cliente": "Diego Mendoza",
+    "equipo": "Motorola G8",
+    "problema": "Micrófono no funciona",
+    "estado": "En Diagnóstico",
+    "costo": "$40.000"
+  },
+  {
+    "id": "ORD-010",
+    "cliente": "Sofía Castro",
+    "equipo": "Google Pixel 4",
+    "problema": "Problema de software",
+    "estado": "Cancelado",
+    "costo": "$25.000"
+  },
+  {
+    "id": "ORD-011",
+    "cliente": "Roberto Herrera",
+    "equipo": "Samsung S21",
+    "problema": "Conector de carga dañado",
+    "estado": "En Reparación",
+    "costo": "$55.000"
+  },
+  {
+    "id": "ORD-012",
+    "cliente": "Valeria Ramos",
+    "equipo": "iPhone SE",
+    "problema": "Batería hinchada",
+    "estado": "Listo para Retiro",
+    "costo": "$60.000"
+  },
+  {
+    "id": "ORD-013",
+    "cliente": "Fernando Ortiz",
+    "equipo": "Realme 8 Pro",
+    "problema": "Pantalla táctil no responde",
+    "estado": "En Diagnóstico",
+    "costo": "$70.000"
+  },
+  {
+    "id": "ORD-014",
+    "cliente": "Daniela Flores",
+    "equipo": "Nokia 7.2",
+    "problema": "Puerto USB dañado",
+    "estado": "En Reparación",
+    "costo": "$42.000"
+  },
+  {
+    "id": "ORD-015",
+    "cliente": "Andrés Vargas",
+    "equipo": "iPhone 14",
+    "problema": "Face ID no funciona",
+    "estado": "Esperando Repuestos",
+    "costo": "$150.000"
+  },
+  {
+    "id": "ORD-016",
+    "cliente": "Mónica Delgado",
+    "equipo": "Oppo A54",
+    "problema": "Problema de conectividad WiFi",
+    "estado": "En Diagnóstico",
+    "costo": "$38.000"
+  },
+  {
+    "id": "ORD-017",
+    "cliente": "Sebastián Medina",
+    "equipo": "Samsung Note 20",
+    "problema": "S Pen no funciona",
+    "estado": "Listo para Retiro",
+    "costo": "$65.000"
+  },
+  {
+    "id": "ORD-018",
+    "cliente": "Paola Guerrero",
+    "equipo": "LG G8",
+    "problema": "Cámara frontal borrosa",
+    "estado": "En Reparación",
+    "costo": "$55.000"
+  },
+  {
+    "id": "ORD-019",
+    "cliente": "Javier Sánchez",
+    "equipo": "Xiaomi Mi 11",
+    "problema": "Botones de volumen atascados",
+    "estado": "En Diagnóstico",
+    "costo": "$32.000"
+  },
+  {
+    "id": "ORD-020",
+    "cliente": "Natalia Romero",
+    "equipo": "iPhone 12 Pro Max",
+    "problema": "Problema de señal celular",
+    "estado": "Esperando Repuestos",
+    "costo": "$95.000"
+  },
+  {
+    "id": "ORD-021",
+    "cliente": "Raúl Aguilar",
+    "equipo": "Vivo V21",
+    "problema": "Pantalla con manchas",
+    "estado": "En Reparación",
+    "costo": "$68.000"
+  },
+  {
+    "id": "ORD-022",
+    "cliente": "Claudia Peña",
+    "equipo": "Samsung A32",
+    "problema": "Sensor de huella no funciona",
+    "estado": "Listo para Retiro",
+    "costo": "$45.000"
+  },
+  {
+    "id": "ORD-023",
+    "cliente": "Óscar Paredes",
+    "equipo": "Honor 50",
+    "problema": "Sobrecalentamiento",
+    "estado": "En Diagnóstico",
+    "costo": "$58.000"
+  },
+  {
+    "id": "ORD-024",
+    "cliente": "Alejandra Cruz",
+    "equipo": "iPhone 13 Mini",
+    "problema": "Altavoz auricular silencioso",
+    "estado": "En Reparación",
+    "costo": "$75.000"
+  },
+  {
+    "id": "ORD-025",
+    "cliente": "Guillermo Reyes",
+    "equipo": "Poco F3",
+    "problema": "Vibración no funciona",
+    "estado": "Cancelado",
+    "costo": "$28.000"
+  },
+  {
+    "id": "ORD-026",
+    "cliente": "Lucía Navarro",
+    "equipo": "Samsung S22",
+    "problema": "Cristal trasero roto",
+    "estado": "Esperando Repuestos",
+    "costo": "$85.000"
+  },
+  {
+    "id": "ORD-027",
+    "cliente": "Héctor Moreno",
+    "equipo": "RedMi Note 10",
+    "problema": "Problema de GPS",
+    "estado": "En Diagnóstico",
+    "costo": "$35.000"
+  }
+]
